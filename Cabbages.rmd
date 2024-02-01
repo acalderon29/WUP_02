@@ -63,6 +63,9 @@ t.test(VitC~Cult,data=veggy)
 ```
 
 The p-value is 0.00000003405. Due to this, we are going to reject the null hypothesis.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We are trying to find the difference in average VitC between c39 and 52 cultivation methods. The p-value as seen in the t.test is 0.00000003405 which is less than 0.05. Due to this. is it understood that c52 takes in more vitamin c than c39.
